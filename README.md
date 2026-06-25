@@ -1,0 +1,2 @@
+# gzcmd.sh
+gzcmd.sh
